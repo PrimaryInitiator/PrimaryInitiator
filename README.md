@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-🔭 I’m currently working on a helpdesk/ticketing web application
+🔭 I’m currently working on a helpdesk/ticketing web application.
+
 🌱 I’m currently learning Django in Python, SQL, and OOP.
-💬 I already know: Linux, Python, HTML, CSS and basic Networking
-📫 How to reach me: You can transfer ownership of an empty repository with a README.md containing your message or You can tag me in a discussion thread 
+
+💬 I already know: Linux, Python, HTML, CSS and basic Networking.
+
+📫 How to reach me: You can transfer ownership of an empty repository with a README.md containing your message or tag me in a thread.
 
 <!--
 **PrimaryInitiator/PrimaryInitiator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
